@@ -1,0 +1,19 @@
+mpd_music_dir = "/home/archierp/Music"
+mouse_list_scroll_whole_page = no
+lines_scrolled = 1
+allow_physical_files_deletion = no
+allow_physical_directories_deletion = no
+
+user_interface = "alternative"
+playlist_display_mode = "classic"
+song_list_format = "$7%l$1 | $0%a$1 | $6%t$1 $R %b"
+progressbar_look = "=»-"
+
+main_window_color = "white"
+main_window_highlight_color = "black"
+active_column_color = "magenta"
+visualizer_color = "magenta"
+
+visualizer_fifo_path = "/tmp/mpd.fifo"
+visualizer_output_name = "my_fifo"
+visualizer_type = "wave"

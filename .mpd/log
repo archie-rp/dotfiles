@@ -1,0 +1,586 @@
+Nov 08 00:18 : update: Failed to stat /home/archierp/Music: No such file or directory
+Nov 08 00:18 : errno: inotify_add_watch() has failed: No such file or directory
+Nov 08 00:18 : avahi: Service 'Music Player' successfully established.
+Nov 08 00:46 : avahi: Client Disconnected, will reconnect shortly
+Nov 08 00:46 : avahi: Could not reconnect: An unexpected D-Bus error occured
+Nov 08 00:48 : avahi: Service 'Music Player' successfully established.
+Nov 08 00:56 : update: added Musica/Sub Focus - Torus [Deluxe Version] (2013)/07. Sub Focus - Turn It Around (feat. Kele).mp3
+Nov 08 00:56 : update: added Musica/Sub Focus - Torus [Deluxe Version] (2013)/03. Sub Focus - Endorphins (feat. Alex Clare).mp3
+Nov 08 00:56 : update: added Musica/Sub Focus - Torus [Deluxe Version] (2013)/08. Sub Focus - Out of Reach (feat. Jayelldee).mp3
+Nov 08 00:56 : update: added Musica/Sub Focus - Torus [Deluxe Version] (2013)/12. Sub Focus - Tidal Wave (feat. Alpines).mp3
+Nov 08 00:56 : update: added Musica/Sub Focus - Torus [Deluxe Version] (2013)/04. Sub Focus - Out the Blue (feat. Alice Gold).mp3
+Nov 08 00:56 : update: added Musica/Sub Focus - Torus [Deluxe Version] (2013)/09. Sub Focus - Falling Down (feat. Kenzie May).mp3
+Nov 08 00:56 : update: added Musica/Sub Focus - Torus [Deluxe Version] (2013)/13. Sub Focus - Until the End (feat. Foxes).mp3
+Nov 08 00:56 : update: added Musica/Sub Focus - Torus [Deluxe Version] (2013)/05. Sub Focus - Twilight.mp3
+Nov 08 00:56 : update: added Musica/Sub Focus - Torus [Deluxe Version] (2013)/02. Sub Focus - Safe In Sound.mp3
+Nov 08 00:56 : update: added Musica/Sub Focus - Torus [Deluxe Version] (2013)/17. Sub Focus - Endorphins (feat. Alex Clare) [Sub Focus vs. Fred V & Grafix Remix].mp3
+Nov 08 00:56 : update: added Musica/Sub Focus - Torus [Deluxe Version] (2013)/10. Sub Focus - Turn Back Time.mp3
+Nov 08 00:56 : update: added Musica/Sub Focus - Torus [Deluxe Version] (2013)/06. Sub Focus - Close (feat. MNEK).mp3
+Nov 08 00:56 : update: added Musica/Sub Focus - Torus [Deluxe Version] (2013)/14. Sub Focus - Eclipse.mp3
+Nov 08 00:56 : update: added Musica/Sub Focus - Torus [Deluxe Version] (2013)/16. Sub Focus - Falling Down VIP (feat. Kenzie May).mp3
+Nov 08 00:56 : update: added Musica/Sub Focus - Torus [Deluxe Version] (2013)/15. Sub Focus - Original.mp3
+Nov 08 00:56 : update: added Musica/Sub Focus - Torus [Deluxe Version] (2013)/01. Sub Focus - Torus.mp3
+Nov 08 00:56 : update: added Musica/Sub Focus - Torus [Deluxe Version] (2013)/11. Sub Focus - You Make It Better (feat. Culture Shock & TC).mp3
+Nov 08 00:56 : update: added Musica/Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube/01.Last Known Surroundings.mp3
+Nov 08 00:56 : update: added Musica/Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube/04.Be Comfortable, Creature.mp3
+Nov 08 00:56 : update: added Musica/Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube/03.Trembling Hands.mp3
+Nov 08 00:56 : update: added Musica/Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube/06.Let Me Back In.mp3
+Nov 08 00:56 : update: added Musica/Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube/02.Human Qualities.mp3
+Nov 08 00:56 : update: added Musica/Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube/05.Postcard From 1952.mp3
+Nov 08 00:56 : update: added Musica/Jimmy Somerville/The Singles Collection 1984-1990/10-For A Friend.mp3
+Nov 08 00:56 : update: added Musica/Jimmy Somerville/The Singles Collection 1984-1990/12-There's More To Love Than Boy Meets Girl.mp3
+Nov 08 00:56 : update: added Musica/Jimmy Somerville/The Singles Collection 1984-1990/11-I Feel Love - Johnny Remember Me.mp3
+Nov 08 00:56 : update: added Musica/Jimmy Somerville/The Singles Collection 1984-1990/15-Tomorrow.mp3
+Nov 08 00:56 : update: added Musica/Jimmy Somerville/The Singles Collection 1984-1990/01-Smalltown Boy.mp3
+Nov 08 00:56 : update: added Musica/Jimmy Somerville/The Singles Collection 1984-1990/16-Disenchanted.mp3
+Nov 08 00:56 : update: added Musica/Jimmy Somerville/The Singles Collection 1984-1990/06-Run From Love.mp3
+Nov 08 00:56 : update: added Musica/Jimmy Somerville/The Singles Collection 1984-1990/02-Don't Leave Me This Way.mp3
+Nov 08 00:56 : update: added Musica/Jimmy Somerville/The Singles Collection 1984-1990/07-Never Can Say Goodbye.mp3
+Nov 08 00:56 : update: added Musica/Jimmy Somerville/The Singles Collection 1984-1990/08-Why-.mp3
+Nov 08 00:56 : update: added Musica/Jimmy Somerville/The Singles Collection 1984-1990/17-Read My Lips.mp3
+Nov 08 00:56 : update: added Musica/Jimmy Somerville/The Singles Collection 1984-1990/14-You Make Me Feel (Mighty Real).mp3
+Nov 08 00:56 : update: added Musica/Jimmy Somerville/The Singles Collection 1984-1990/03-Ain't Necessarily So.mp3
+Nov 08 00:56 : update: added Musica/Jimmy Somerville/The Singles Collection 1984-1990/05-Comment Te Dire Adieu.mp3
+Nov 08 00:56 : update: added Musica/Jimmy Somerville/The Singles Collection 1984-1990/09-You Are My World.mp3
+Nov 08 00:56 : update: added Musica/Jimmy Somerville/The Singles Collection 1984-1990/04-To Love Somebody.mp3
+Nov 08 00:56 : update: added Musica/Jimmy Somerville/The Singles Collection 1984-1990/13-So Cold The Night.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Metronic.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Infinity.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/More Than You.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Never Gonna Break (Ft. Lily McKenzie) (Specimen A Remix).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Explosions (Gemini Remix).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Scarred.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Ebb & Flow.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/I Need You.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Planet Online (Culprate Remix).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/28 Hz Scream.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Shady.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Black Mountains.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Blues.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Jurassic.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Fever Dream (Part 1).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Hold It Down (Ft. Georgia Murray).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Sucker Punch.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/My World.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Mirrormask (Ft. Koda & CoMa).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/So Far Away.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Overtime (DotEXE & Candyland Remix).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/The Final Cut.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Never Let Me Go.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Uppercut.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Inside My Head (Ft. Ghetts).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Guided Rhythm.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Walrus.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Made Of Clay (Ft. CoMa).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Crystal Mathematics (Ft. Shaz Sparks).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Endorphins (Ft. Alex Clare).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Unsafe.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Born Enemies.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Stardust (Ft. Taylr Renee).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Binary.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Shouting At The Sky.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Lost I.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Boss Wave.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Gully Side.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/The Scientist.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Rez (Bassnectar Remix).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Behemoth.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Gold (Ft. Yuna).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Aeropolis (The Others Remix).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Slaughterhouse.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/The Palace (Ft. Blake Hazard).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Shook.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Zim Zimma.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/The Line (Ft. Glen Boden).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Beautiful People.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/The Void (Ft. Anna Yvette).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Atome.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Storm (Ft. Jess Mills).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Mind Control.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Everybody Knows (Ft. Foreign Beggars vs The OGz).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Locked On The Low (Ft. Naomi Pryor) (Zero One Remix).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Come Find Me (Ft. Flux Pavilion).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Good Feeling (True Tiger Remix).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Behind You (VIP).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Just Be (Distance Remix).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Perfect Replacement (Datsik Remix).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Truth (Candyland Remix).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Feel Good.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Fevers (Ft. Minnesota and Mimi Page).mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Hypnotizing.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Frozen Sound.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Vega.mp3
+Nov 08 00:56 : update: added Musica/UKF Dubstep 2013/Eyes On You.mp3
+Nov 08 00:56 : update: removing Musica/Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube/01.Last Known Surroundings.mp3
+Nov 08 00:56 : update: removing Musica/Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube/02.Human Qualities.mp3
+Nov 08 00:56 : update: removing Musica/Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube/03.Trembling Hands.mp3
+Nov 08 00:56 : update: removing Musica/Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube/04.Be Comfortable, Creature.mp3
+Nov 08 00:56 : update: removing Musica/Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube/05.Postcard From 1952.mp3
+Nov 08 00:56 : update: removing Musica/Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube/06.Let Me Back In.mp3
+Nov 08 00:56 : update: removing Musica/Jimmy Somerville/The Singles Collection 1984-1990/01-Smalltown Boy.mp3
+Nov 08 00:56 : update: removing Musica/Jimmy Somerville/The Singles Collection 1984-1990/02-Don't Leave Me This Way.mp3
+Nov 08 00:56 : update: removing Musica/Jimmy Somerville/The Singles Collection 1984-1990/03-Ain't Necessarily So.mp3
+Nov 08 00:56 : update: removing Musica/Jimmy Somerville/The Singles Collection 1984-1990/04-To Love Somebody.mp3
+Nov 08 00:56 : update: removing Musica/Jimmy Somerville/The Singles Collection 1984-1990/05-Comment Te Dire Adieu.mp3
+Nov 08 00:56 : update: removing Musica/Jimmy Somerville/The Singles Collection 1984-1990/06-Run From Love.mp3
+Nov 08 00:56 : update: removing Musica/Jimmy Somerville/The Singles Collection 1984-1990/07-Never Can Say Goodbye.mp3
+Nov 08 00:56 : update: removing Musica/Jimmy Somerville/The Singles Collection 1984-1990/08-Why-.mp3
+Nov 08 00:56 : update: removing Musica/Jimmy Somerville/The Singles Collection 1984-1990/09-You Are My World.mp3
+Nov 08 00:56 : update: removing Musica/Jimmy Somerville/The Singles Collection 1984-1990/10-For A Friend.mp3
+Nov 08 00:56 : update: removing Musica/Jimmy Somerville/The Singles Collection 1984-1990/11-I Feel Love - Johnny Remember Me.mp3
+Nov 08 00:56 : update: removing Musica/Jimmy Somerville/The Singles Collection 1984-1990/12-There's More To Love Than Boy Meets Girl.mp3
+Nov 08 00:56 : update: removing Musica/Jimmy Somerville/The Singles Collection 1984-1990/13-So Cold The Night.mp3
+Nov 08 00:56 : update: removing Musica/Jimmy Somerville/The Singles Collection 1984-1990/14-You Make Me Feel (Mighty Real).mp3
+Nov 08 00:56 : update: removing Musica/Jimmy Somerville/The Singles Collection 1984-1990/15-Tomorrow.mp3
+Nov 08 00:56 : update: removing Musica/Jimmy Somerville/The Singles Collection 1984-1990/16-Disenchanted.mp3
+Nov 08 00:56 : update: removing Musica/Jimmy Somerville/The Singles Collection 1984-1990/17-Read My Lips.mp3
+Nov 08 00:56 : update: removing Musica/Sub Focus - Torus [Deluxe Version] (2013)/01. Sub Focus - Torus.mp3
+Nov 08 00:56 : update: removing Musica/Sub Focus - Torus [Deluxe Version] (2013)/02. Sub Focus - Safe In Sound.mp3
+Nov 08 00:56 : update: removing Musica/Sub Focus - Torus [Deluxe Version] (2013)/03. Sub Focus - Endorphins (feat. Alex Clare).mp3
+Nov 08 00:56 : update: removing Musica/Sub Focus - Torus [Deluxe Version] (2013)/04. Sub Focus - Out the Blue (feat. Alice Gold).mp3
+Nov 08 00:56 : update: removing Musica/Sub Focus - Torus [Deluxe Version] (2013)/05. Sub Focus - Twilight.mp3
+Nov 08 00:56 : update: removing Musica/Sub Focus - Torus [Deluxe Version] (2013)/06. Sub Focus - Close (feat. MNEK).mp3
+Nov 08 00:56 : update: removing Musica/Sub Focus - Torus [Deluxe Version] (2013)/07. Sub Focus - Turn It Around (feat. Kele).mp3
+Nov 08 00:56 : update: removing Musica/Sub Focus - Torus [Deluxe Version] (2013)/08. Sub Focus - Out of Reach (feat. Jayelldee).mp3
+Nov 08 00:56 : update: removing Musica/Sub Focus - Torus [Deluxe Version] (2013)/09. Sub Focus - Falling Down (feat. Kenzie May).mp3
+Nov 08 00:56 : update: removing Musica/Sub Focus - Torus [Deluxe Version] (2013)/10. Sub Focus - Turn Back Time.mp3
+Nov 08 00:56 : update: removing Musica/Sub Focus - Torus [Deluxe Version] (2013)/11. Sub Focus - You Make It Better (feat. Culture Shock & TC).mp3
+Nov 08 00:56 : update: removing Musica/Sub Focus - Torus [Deluxe Version] (2013)/12. Sub Focus - Tidal Wave (feat. Alpines).mp3
+Nov 08 00:56 : update: removing Musica/Sub Focus - Torus [Deluxe Version] (2013)/13. Sub Focus - Until the End (feat. Foxes).mp3
+Nov 08 00:56 : update: removing Musica/Sub Focus - Torus [Deluxe Version] (2013)/14. Sub Focus - Eclipse.mp3
+Nov 08 00:56 : update: removing Musica/Sub Focus - Torus [Deluxe Version] (2013)/15. Sub Focus - Original.mp3
+Nov 08 00:56 : update: removing Musica/Sub Focus - Torus [Deluxe Version] (2013)/16. Sub Focus - Falling Down VIP (feat. Kenzie May).mp3
+Nov 08 00:56 : update: removing Musica/Sub Focus - Torus [Deluxe Version] (2013)/17. Sub Focus - Endorphins (feat. Alex Clare) [Sub Focus vs. Fred V & Grafix Remix].mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/28 Hz Scream.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Aeropolis (The Others Remix).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Atome.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Beautiful People.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Behemoth.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Behind You (VIP).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Binary.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Black Mountains.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Blues.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Born Enemies.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Boss Wave.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Come Find Me (Ft. Flux Pavilion).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Crystal Mathematics (Ft. Shaz Sparks).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Ebb & Flow.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Endorphins (Ft. Alex Clare).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Everybody Knows (Ft. Foreign Beggars vs The OGz).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Explosions (Gemini Remix).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Eyes On You.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Feel Good.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Fever Dream (Part 1).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Fevers (Ft. Minnesota and Mimi Page).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Frozen Sound.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Gold (Ft. Yuna).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Good Feeling (True Tiger Remix).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Guided Rhythm.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Gully Side.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Hold It Down (Ft. Georgia Murray).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Hypnotizing.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/I Need You.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Infinity.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Inside My Head (Ft. Ghetts).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Jurassic.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Just Be (Distance Remix).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Locked On The Low (Ft. Naomi Pryor) (Zero One Remix).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Lost I.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Made Of Clay (Ft. CoMa).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Metronic.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Mind Control.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Mirrormask (Ft. Koda & CoMa).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/More Than You.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/My World.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Never Gonna Break (Ft. Lily McKenzie) (Specimen A Remix).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Never Let Me Go.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Overtime (DotEXE & Candyland Remix).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Perfect Replacement (Datsik Remix).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Planet Online (Culprate Remix).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Rez (Bassnectar Remix).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Scarred.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Shady.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Shook.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Shouting At The Sky.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Slaughterhouse.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/So Far Away.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Stardust (Ft. Taylr Renee).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Storm (Ft. Jess Mills).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Sucker Punch.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/The Final Cut.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/The Line (Ft. Glen Boden).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/The Palace (Ft. Blake Hazard).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/The Scientist.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/The Void (Ft. Anna Yvette).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Truth (Candyland Remix).mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Unsafe.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Uppercut.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Vega.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Walrus.mp3
+Nov 08 00:56 : update: removing Musica/UKF Dubstep 2013/Zim Zimma.mp3
+Nov 08 00:56 : update: added Sub Focus - Torus [Deluxe Version] (2013)/07. Sub Focus - Turn It Around (feat. Kele).mp3
+Nov 08 00:56 : update: added Sub Focus - Torus [Deluxe Version] (2013)/03. Sub Focus - Endorphins (feat. Alex Clare).mp3
+Nov 08 00:56 : update: added Sub Focus - Torus [Deluxe Version] (2013)/08. Sub Focus - Out of Reach (feat. Jayelldee).mp3
+Nov 08 00:56 : update: added Sub Focus - Torus [Deluxe Version] (2013)/12. Sub Focus - Tidal Wave (feat. Alpines).mp3
+Nov 08 00:56 : update: added Sub Focus - Torus [Deluxe Version] (2013)/04. Sub Focus - Out the Blue (feat. Alice Gold).mp3
+Nov 08 00:56 : update: added Sub Focus - Torus [Deluxe Version] (2013)/09. Sub Focus - Falling Down (feat. Kenzie May).mp3
+Nov 08 00:56 : update: added Sub Focus - Torus [Deluxe Version] (2013)/13. Sub Focus - Until the End (feat. Foxes).mp3
+Nov 08 00:56 : update: added Sub Focus - Torus [Deluxe Version] (2013)/05. Sub Focus - Twilight.mp3
+Nov 08 00:56 : update: added Sub Focus - Torus [Deluxe Version] (2013)/02. Sub Focus - Safe In Sound.mp3
+Nov 08 00:56 : update: added Sub Focus - Torus [Deluxe Version] (2013)/17. Sub Focus - Endorphins (feat. Alex Clare) [Sub Focus vs. Fred V & Grafix Remix].mp3
+Nov 08 00:56 : update: added Sub Focus - Torus [Deluxe Version] (2013)/10. Sub Focus - Turn Back Time.mp3
+Nov 08 00:56 : update: added Sub Focus - Torus [Deluxe Version] (2013)/06. Sub Focus - Close (feat. MNEK).mp3
+Nov 08 00:56 : update: added Sub Focus - Torus [Deluxe Version] (2013)/14. Sub Focus - Eclipse.mp3
+Nov 08 00:56 : update: added Sub Focus - Torus [Deluxe Version] (2013)/16. Sub Focus - Falling Down VIP (feat. Kenzie May).mp3
+Nov 08 00:56 : update: added Sub Focus - Torus [Deluxe Version] (2013)/15. Sub Focus - Original.mp3
+Nov 08 00:56 : update: added Sub Focus - Torus [Deluxe Version] (2013)/01. Sub Focus - Torus.mp3
+Nov 08 00:56 : update: added Sub Focus - Torus [Deluxe Version] (2013)/11. Sub Focus - You Make It Better (feat. Culture Shock & TC).mp3
+Nov 08 00:56 : update: added Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube/01.Last Known Surroundings.mp3
+Nov 08 00:56 : update: added Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube/04.Be Comfortable, Creature.mp3
+Nov 08 00:56 : update: added Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube/03.Trembling Hands.mp3
+Nov 08 00:56 : update: added Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube/06.Let Me Back In.mp3
+Nov 08 00:56 : update: added Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube/02.Human Qualities.mp3
+Nov 08 00:56 : update: added Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube/05.Postcard From 1952.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Metronic.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Infinity.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/More Than You.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Never Gonna Break (Ft. Lily McKenzie) (Specimen A Remix).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Explosions (Gemini Remix).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Scarred.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Ebb & Flow.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/I Need You.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Planet Online (Culprate Remix).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/28 Hz Scream.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Shady.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Black Mountains.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Blues.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Jurassic.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Fever Dream (Part 1).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Hold It Down (Ft. Georgia Murray).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Sucker Punch.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/My World.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Mirrormask (Ft. Koda & CoMa).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/So Far Away.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Overtime (DotEXE & Candyland Remix).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/The Final Cut.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Never Let Me Go.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Uppercut.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Inside My Head (Ft. Ghetts).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Guided Rhythm.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Walrus.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Made Of Clay (Ft. CoMa).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Crystal Mathematics (Ft. Shaz Sparks).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Endorphins (Ft. Alex Clare).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Unsafe.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Born Enemies.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Stardust (Ft. Taylr Renee).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Binary.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Shouting At The Sky.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Lost I.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Boss Wave.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Gully Side.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/The Scientist.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Rez (Bassnectar Remix).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Behemoth.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Gold (Ft. Yuna).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Aeropolis (The Others Remix).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Slaughterhouse.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/The Palace (Ft. Blake Hazard).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Shook.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Zim Zimma.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/The Line (Ft. Glen Boden).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Beautiful People.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/The Void (Ft. Anna Yvette).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Atome.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Storm (Ft. Jess Mills).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Mind Control.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Everybody Knows (Ft. Foreign Beggars vs The OGz).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Locked On The Low (Ft. Naomi Pryor) (Zero One Remix).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Come Find Me (Ft. Flux Pavilion).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Good Feeling (True Tiger Remix).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Behind You (VIP).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Just Be (Distance Remix).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Perfect Replacement (Datsik Remix).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Truth (Candyland Remix).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Feel Good.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Fevers (Ft. Minnesota and Mimi Page).mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Hypnotizing.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Frozen Sound.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Vega.mp3
+Nov 08 00:56 : update: added UKF Dubstep 2013/Eyes On You.mp3
+Nov 08 00:56 : update: added Jimmy Somerville/The Singles Collection 1984-1990/10-For A Friend.mp3
+Nov 08 00:56 : update: added Jimmy Somerville/The Singles Collection 1984-1990/12-There's More To Love Than Boy Meets Girl.mp3
+Nov 08 00:56 : update: added Jimmy Somerville/The Singles Collection 1984-1990/11-I Feel Love - Johnny Remember Me.mp3
+Nov 08 00:56 : update: added Jimmy Somerville/The Singles Collection 1984-1990/15-Tomorrow.mp3
+Nov 08 00:56 : update: added Jimmy Somerville/The Singles Collection 1984-1990/01-Smalltown Boy.mp3
+Nov 08 00:56 : update: added Jimmy Somerville/The Singles Collection 1984-1990/16-Disenchanted.mp3
+Nov 08 00:56 : update: added Jimmy Somerville/The Singles Collection 1984-1990/06-Run From Love.mp3
+Nov 08 00:56 : update: added Jimmy Somerville/The Singles Collection 1984-1990/02-Don't Leave Me This Way.mp3
+Nov 08 00:56 : update: added Jimmy Somerville/The Singles Collection 1984-1990/07-Never Can Say Goodbye.mp3
+Nov 08 00:56 : update: added Jimmy Somerville/The Singles Collection 1984-1990/08-Why-.mp3
+Nov 08 00:56 : update: added Jimmy Somerville/The Singles Collection 1984-1990/17-Read My Lips.mp3
+Nov 08 00:56 : update: added Jimmy Somerville/The Singles Collection 1984-1990/14-You Make Me Feel (Mighty Real).mp3
+Nov 08 00:56 : update: added Jimmy Somerville/The Singles Collection 1984-1990/03-Ain't Necessarily So.mp3
+Nov 08 00:56 : update: added Jimmy Somerville/The Singles Collection 1984-1990/05-Comment Te Dire Adieu.mp3
+Nov 08 00:56 : update: added Jimmy Somerville/The Singles Collection 1984-1990/09-You Are My World.mp3
+Nov 08 00:56 : update: added Jimmy Somerville/The Singles Collection 1984-1990/04-To Love Somebody.mp3
+Nov 08 00:56 : update: added Jimmy Somerville/The Singles Collection 1984-1990/13-So Cold The Night.mp3
+Nov 08 02:23 : avahi: Client Disconnected, will reconnect shortly
+Nov 08 02:23 : avahi: Could not reconnect: An unexpected D-Bus error occured
+Nov 08 10:05 : avahi: Service 'Music Player' successfully established.
+Nov 08 22:02 : avahi: Client Disconnected, will reconnect shortly
+Nov 08 22:02 : avahi: Could not reconnect: An unexpected D-Bus error occured
+Nov 08 22:04 : avahi: Service 'Music Player' successfully established.
+Nov 09 01:53 : avahi: Client Disconnected, will reconnect shortly
+Nov 09 01:53 : avahi: Could not reconnect: An unexpected D-Bus error occured
+Nov 09 13:31 : avahi: Service 'Music Player' successfully established.
+Nov 09 17:35 : avahi: Service 'Music Player' successfully established.
+Nov 09 17:42 : avahi: Service 'Music Player' successfully established.
+Nov 09 18:03 : avahi: Service 'Music Player' successfully established.
+Nov 09 18:12 : player: played "UKF Dubstep 2013/Mind Control.mp3"
+Nov 09 18:16 : player: played "UKF Dubstep 2013/Mirrormask (Ft. Koda & CoMa).mp3"
+Nov 09 18:19 : player: played "UKF Dubstep 2013/More Than You.mp3"
+Nov 09 18:31 : player: played "UKF Dubstep 2013/28 Hz Scream.mp3"
+Nov 09 18:35 : player: played "UKF Dubstep 2013/28 Hz Scream.mp3"
+Nov 09 18:40 : player: played "UKF Dubstep 2013/Aeropolis (The Others Remix).mp3"
+Nov 09 18:43 : player: played "UKF Dubstep 2013/Atome.mp3"
+Nov 09 18:45 : player: played "UKF Dubstep 2013/Beautiful People.mp3"
+Nov 09 18:50 : player: played "UKF Dubstep 2013/Behemoth.mp3"
+Nov 09 18:55 : player: played "UKF Dubstep 2013/Behind You (VIP).mp3"
+Nov 09 18:59 : player: played "UKF Dubstep 2013/Binary.mp3"
+Nov 09 19:03 : player: played "UKF Dubstep 2013/Black Mountains.mp3"
+Nov 09 19:07 : player: played "UKF Dubstep 2013/Blues.mp3"
+Nov 09 19:12 : player: played "UKF Dubstep 2013/Born Enemies.mp3"
+Nov 09 19:17 : player: played "UKF Dubstep 2013/Boss Wave.mp3"
+Nov 09 19:21 : player: played "UKF Dubstep 2013/Come Find Me (Ft. Flux Pavilion).mp3"
+Nov 09 19:25 : player: played "UKF Dubstep 2013/Crystal Mathematics (Ft. Shaz Sparks).mp3"
+Nov 09 19:30 : avahi: Client Disconnected, will reconnect shortly
+Nov 09 19:30 : avahi: Could not reconnect: An unexpected D-Bus error occured
+Nov 10 19:42 : avahi: Service 'Music Player' successfully established.
+Nov 10 19:42 : player: played "UKF Dubstep 2013/Ebb & Flow.mp3"
+Nov 10 19:45 : player: played "UKF Dubstep 2013/Endorphins (Ft. Alex Clare).mp3"
+Nov 10 19:48 : player: played "UKF Dubstep 2013/Everybody Knows (Ft. Foreign Beggars vs The OGz).mp3"
+Nov 10 19:53 : player: played "UKF Dubstep 2013/Explosions (Gemini Remix).mp3"
+Nov 10 19:57 : player: played "UKF Dubstep 2013/Eyes On You.mp3"
+Nov 10 20:01 : player: played "UKF Dubstep 2013/Feel Good.mp3"
+Nov 10 20:05 : player: played "UKF Dubstep 2013/Fever Dream (Part 1).mp3"
+Nov 10 20:09 : player: played "UKF Dubstep 2013/Fevers (Ft. Minnesota and Mimi Page).mp3"
+Nov 10 20:12 : player: played "UKF Dubstep 2013/Frozen Sound.mp3"
+Nov 10 20:16 : player: played "UKF Dubstep 2013/Gold (Ft. Yuna).mp3"
+Nov 10 20:20 : player: played "UKF Dubstep 2013/Good Feeling (True Tiger Remix).mp3"
+Nov 10 21:34 : player: played "UKF Dubstep 2013/Guided Rhythm.mp3"
+Nov 10 21:37 : player: played "UKF Dubstep 2013/Gully Side.mp3"
+Nov 10 21:41 : player: played "UKF Dubstep 2013/Hold It Down (Ft. Georgia Murray).mp3"
+Nov 10 21:45 : player: played "UKF Dubstep 2013/I Need You.mp3"
+Nov 10 22:05 : player: played "UKF Dubstep 2013/Infinity.mp3"
+Nov 10 22:12 : player: played "UKF Dubstep 2013/Inside My Head (Ft. Ghetts).mp3"
+Aug 08 21:28 : update: Failed to stat /home/archierp/Music: No such file or directory
+Aug 08 21:28 : errno: inotify_add_watch() has failed: No such file or directory
+Aug 08 21:28 : avahi: Service 'Music Player' successfully established.
+Aug 08 21:28 : alsa_mixer: Failed to read mixer for 'HD Realtek': no such mixer control: PCM
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/16_Trei-Placebo.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/24_Insomniax-Over_Again_VIP_(Feat_Faye_Chatfield).mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/20_Kove-Sleep_It_Off.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/05_Andy_C-Workout.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/09_Smooth-Drone.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/34_KG-Woodblock_Riddim.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/18_Insideinfo-Honey_Bee_(Audio_Remix).mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/33_A.M.C-Titanium.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/17_LoKo-Rage_VIP.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/21_Silent_Code-Listen.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/23_KG-Otium.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/02_Sigma-Nobody_to_Love_(Extended_Mix).mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/31_Six_Blade_Feat_Robby_Stone-Forget_Who_You_Knew.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/27_Shockone-Harmonize.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/30_Insomniax-Cant_Resist.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/26_Matrix__Futurebound-Magnetic_Eyes_(Feat_Baby_Blue_-_Smooth_Remix).mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/32_Seismix-Lightspeed.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/29_Ekko__Sidetrack-Contention.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/04_Brookes_Brothers-Carry_Me_on_(Feat_Chrom3).mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/06_Black_Sun_Empire__Noisia-Hideous_(Raw_Theory_Remix).mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/08_The_Prototypes-Just_Bounce_VIP.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/15_Metrik-Drift.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/19_Koncept-Breathe_in.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/25_North_Base-Beats_so_Loud_(Feat_Jenna_G).mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/01_Matrix__Futurebound-Control_(Feat_Max_Marshall).mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/28_B_Motion-Summer_Glow.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/22_Cynematic-Vortex.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/11_Seven_Lions-Below_Us.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/13_Fred_V__Grafix-Just_A_Thought_(Feat_Reija_Lee_-_Smooth_Remix).mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/10_DC_Breaks-Babylon_(TC_Remix).mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/12_Shockone_Feat_Reija_Lee-Home.mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/14_Koven-Make_it_There_(Feat_Folly_Rae_-_The_Prototypes_Remix).mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/07_Camo__Krooked-Feel_Your_Pulse_(Mind_Vortex_Remix).mp3
+Aug 08 21:30 : update: added VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/03_The_Prototypes-Pale_Blue_Dot.mp3
+Aug 08 21:32 : output: Failed to open mixer for 'HD Realtek'
+Aug 08 21:34 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/01_Matrix__Futurebound-Control_(Feat_Max_Marshall).mp3"
+Aug 08 21:34 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/02_Sigma-Nobody_to_Love_(Extended_Mix).mp3"
+Aug 08 21:38 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/03_The_Prototypes-Pale_Blue_Dot.mp3"
+Aug 08 21:42 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/04_Brookes_Brothers-Carry_Me_on_(Feat_Chrom3).mp3"
+Aug 08 21:42 : output: Failed to open mixer for 'HD Realtek'
+Aug 08 21:45 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/05_Andy_C-Workout.mp3"
+Aug 08 21:47 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/06_Black_Sun_Empire__Noisia-Hideous_(Raw_Theory_Remix).mp3"
+Aug 08 21:51 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/07_Camo__Krooked-Feel_Your_Pulse_(Mind_Vortex_Remix).mp3"
+Aug 08 21:54 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/08_The_Prototypes-Just_Bounce_VIP.mp3"
+Aug 08 21:57 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/09_Smooth-Drone.mp3"
+Aug 08 21:58 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/10_DC_Breaks-Babylon_(TC_Remix).mp3"
+Aug 08 22:02 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/11_Seven_Lions-Below_Us.mp3"
+Aug 08 22:02 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 01:16 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/12_Shockone_Feat_Reija_Lee-Home.mp3"
+Aug 09 12:09 : avahi: Service 'Music Player' successfully established.
+Aug 09 12:09 : alsa_mixer: Failed to read mixer for 'HD Realtek': no such mixer control: PCM
+Aug 09 12:09 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/12_Shockone_Feat_Reija_Lee-Home.mp3"
+Aug 09 12:09 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 12:15 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 12:19 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/13_Fred_V__Grafix-Just_A_Thought_(Feat_Reija_Lee_-_Smooth_Remix).mp3"
+Aug 09 12:20 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 12:25 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/14_Koven-Make_it_There_(Feat_Folly_Rae_-_The_Prototypes_Remix).mp3"
+Aug 09 12:26 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 12:30 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/15_Metrik-Drift.mp3"
+Aug 09 12:40 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 12:44 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/16_Trei-Placebo.mp3"
+Aug 09 12:49 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 12:53 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/17_LoKo-Rage_VIP.mp3"
+Aug 09 12:55 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 12:56 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/18_Insideinfo-Honey_Bee_(Audio_Remix).mp3"
+Aug 09 13:01 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/19_Koncept-Breathe_in.mp3"
+Aug 09 13:12 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 13:16 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/20_Kove-Sleep_It_Off.mp3"
+Aug 09 13:47 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 13:51 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/21_Silent_Code-Listen.mp3"
+Aug 09 13:53 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 13:58 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/22_Cynematic-Vortex.mp3"
+Aug 09 13:58 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 14:03 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/23_KG-Otium.mp3"
+Aug 09 14:10 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 14:14 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/24_Insomniax-Over_Again_VIP_(Feat_Faye_Chatfield).mp3"
+Aug 09 14:18 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/25_North_Base-Beats_so_Loud_(Feat_Jenna_G).mp3"
+Aug 09 14:21 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 14:25 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/26_Matrix__Futurebound-Magnetic_Eyes_(Feat_Baby_Blue_-_Smooth_Remix).mp3"
+Aug 09 14:26 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 14:31 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/27_Shockone-Harmonize.mp3"
+Aug 09 14:31 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 14:33 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/28_B_Motion-Summer_Glow.mp3"
+Aug 09 14:39 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/30_Insomniax-Cant_Resist.mp3"
+Aug 09 15:19 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 16:13 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/31_Six_Blade_Feat_Robby_Stone-Forget_Who_You_Knew.mp3"
+Aug 09 16:13 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 16:18 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/32_Seismix-Lightspeed.mp3"
+Aug 09 16:23 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/20_Kove-Sleep_It_Off.mp3"
+Aug 09 16:23 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 16:27 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/33_A.M.C-Titanium.mp3"
+Aug 09 16:29 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 16:33 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/34_KG-Woodblock_Riddim.mp3"
+Aug 09 16:34 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 16:38 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/04_Brookes_Brothers-Carry_Me_on_(Feat_Chrom3).mp3"
+Aug 09 16:42 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 16:46 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/05_Andy_C-Workout.mp3"
+Aug 09 16:58 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 17:03 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/06_Black_Sun_Empire__Noisia-Hideous_(Raw_Theory_Remix).mp3"
+Aug 09 17:04 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 17:08 : player: played "VA-Viper_Presents_Drum__Bass_Summer_Slammers_2014-(VPRLP007)-WEB-2014/07_Camo__Krooked-Feel_Your_Pulse_(Mind_Vortex_Remix).mp3"
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/11. Must Die! - Feline (Original Mix).mp3
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/21. SkisM - Never Say Die, Vol. 3 Continuous Mix.mp3
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/05. Trampa & Slick Don - Gunfingers (Original Mix).mp3
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/02. MUST DIE! & Mantis - Culture (Original Mix).mp3
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/03. EPTIC - Like A Boss (Barely Alive Remix).mp3
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/06. Torqux - Up My Slang (Original Mix).mp3
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/04. Antiserum & Mayhem - Pakistan (Original Mix).mp3
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/18. Mantis - Desolation VIP.mp3
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/09. Megalodon - Danger Zone (Original Mix).mp3
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/15. 501 - Emotive (Original Mix).mp3
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/10. Trolley Snatcha - Fuck You Looking At (Original Mix).mp3
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/13. EPTIC - Space Cats (Original Mix).mp3
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/16. Hyper Crush - Illegalities (MUST DIE! Remix).mp3
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/08. Zomboy - Raptor (SKisM & LAXX Remix).mp3
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/19. Bro Safari - The Drop (MUST DIE! Remix).mp3
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/20. Fedde Le Grand & DI-RECT - Where We Belong (Zomboy Remix).mp3
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/12. Culprate & Torqux - Drop (Original Mix).mp3
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/14. Buku - Cake Dough Cheddar (Original Mix).mp3
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/07. Diskord - Freak (Original Mix).mp3
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/01. Laxx - Step Two (Original Mix).mp3
+Aug 09 17:45 : update: added VA - Never Say Die Vol. 3 (2014)/17. Far Too Loud - Doomsday Machine (Original Mix).mp3
+Aug 09 17:45 : update: added SirensCeol – The Method To The Madness (2014) [SZLP0018]/12. Memories.mp3
+Aug 09 17:45 : update: added SirensCeol – The Method To The Madness (2014) [SZLP0018]/06. The Devil's Swing.mp3
+Aug 09 17:45 : update: added SirensCeol – The Method To The Madness (2014) [SZLP0018]/15. The Method To Madness.mp3
+Aug 09 17:45 : update: added SirensCeol – The Method To The Madness (2014) [SZLP0018]/03. Adventure Time.mp3
+Aug 09 17:45 : update: added SirensCeol – The Method To The Madness (2014) [SZLP0018]/13. Starlight Lullaby (feat. Inure).mp3
+Aug 09 17:45 : update: added SirensCeol – The Method To The Madness (2014) [SZLP0018]/07. Not Gonna' Fail.mp3
+Aug 09 17:45 : update: added SirensCeol – The Method To The Madness (2014) [SZLP0018]/14. A Heart Without A Home.mp3
+Aug 09 17:45 : update: added SirensCeol – The Method To The Madness (2014) [SZLP0018]/10. My Story.mp3
+Aug 09 17:45 : update: added SirensCeol – The Method To The Madness (2014) [SZLP0018]/04. Feeling Alright (feat. Jeff Sontag).mp3
+Aug 09 17:45 : update: added SirensCeol – The Method To The Madness (2014) [SZLP0018]/05. Islands.mp3
+Aug 09 17:45 : update: added SirensCeol – The Method To The Madness (2014) [SZLP0018]/02. Atrium.mp3
+Aug 09 17:45 : update: added SirensCeol – The Method To The Madness (2014) [SZLP0018]/09. Slipping (feat. Ayana).mp3
+Aug 09 17:45 : update: added SirensCeol – The Method To The Madness (2014) [SZLP0018]/08. Russian Roulette.mp3
+Aug 09 17:45 : update: added SirensCeol – The Method To The Madness (2014) [SZLP0018]/11. All You Are.mp3
+Aug 09 17:45 : update: added SirensCeol – The Method To The Madness (2014) [SZLP0018]/01. The Glitch Waltz.mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/16 Abyss Vip.mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/22 High (feat. Nicole Millar).mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/04 Make the Girlies Wet (Breeze & Modulate Remix).mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/28 Legacy (Vicetone Remix).mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/31 The Future Sound of EDM - Krewella (Continuous Mix 1).mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/11 Without You.mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/26 Tekken.mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/18 Not Giving In (feat. John Newman & Alex Clare) [Loadstar Remix].mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/07 La La La (feat. Sam Smith) [Kaos Remix].mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/14 Bring the Bass Back.mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/30 Redeemer.mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/27 Enjoy the Ride (Arthur Ash Remix).mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/21 Second Skin.mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/10 Lucid Dreams (The M Machine Remix).mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/13 Mermaids (Six Blade Remix).mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/25 Urban Slayer.mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/05 Revolution (feat. ImanoS, Faustix & Kai) [Boaz Van De Beatz Remix].mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/32 The Future Sound of EDM - Krewella (Continuous Mix 2).mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/23 The Drugs Are In Control.mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/29 Krmt.mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/20 Lights & Thunder (feat. Gareth Emery) [Darren Styles Mix].mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/03 Live for the Night (Pegboard Nerds Remix).mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/17 Freefall (feat. Reija Lee).mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/06 DI Air.mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/01 151.mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/19 Bang 2 Me Nasty (VIP Mix).mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/12 We Go Down (Darren Styles Remix).mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/15 Home (feat. Reija Lee).mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/09 Expanded.mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/02 Turn Back Time (Bro Safari & Etc! Etc! Remix).mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/24 White Lies (feat. Chloe Angelides).mp3
+Aug 09 17:47 : update: added Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/08 Kiss the Devil (Just A Gent Remix).mp3
+Aug 09 17:47 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 17:50 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/01 151.mp3"
+Aug 09 17:54 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/02 Turn Back Time (Bro Safari & Etc! Etc! Remix).mp3"
+Aug 09 17:55 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/03 Live for the Night (Pegboard Nerds Remix).mp3"
+Aug 09 17:56 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/04 Make the Girlies Wet (Breeze & Modulate Remix).mp3"
+Aug 09 18:01 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/05 Revolution (feat. ImanoS, Faustix & Kai) [Boaz Van De Beatz Remix].mp3"
+Aug 09 18:01 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 18:04 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/06 DI Air.mp3"
+Aug 09 18:05 : output: Failed to open mixer for 'HD Realtek'
+Aug 09 18:06 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/07 La La La (feat. Sam Smith) [Kaos Remix].mp3"
+Aug 09 18:11 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/08 Kiss the Devil (Just A Gent Remix).mp3"
+Aug 09 18:18 : avahi: Service 'Music Player' successfully established.
+Aug 09 18:18 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/06 DI Air.mp3"
+Aug 09 18:19 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/07 La La La (feat. Sam Smith) [Kaos Remix].mp3"
+Aug 09 18:20 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/08 Kiss the Devil (Just A Gent Remix).mp3"
+Aug 09 18:20 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/09 Expanded.mp3"
+Aug 09 18:20 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/10 Lucid Dreams (The M Machine Remix).mp3"
+Aug 09 18:24 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/11 Without You.mp3"
+Aug 09 18:31 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/12 We Go Down (Darren Styles Remix).mp3"
+Aug 09 18:36 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/13 Mermaids (Six Blade Remix).mp3"
+Aug 09 18:45 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/14 Bring the Bass Back.mp3"
+Aug 09 18:50 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/15 Home (feat. Reija Lee).mp3"
+Aug 09 18:51 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/16 Abyss Vip.mp3"
+Aug 09 18:51 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/17 Freefall (feat. Reija Lee).mp3"
+Aug 09 18:55 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/18 Not Giving In (feat. John Newman & Alex Clare) [Loadstar Remix].mp3"
+Aug 09 20:45 : player: played "Ministry of Sound - The Future Sound of EDM Krewella (2014) (320kbps) (AciDToX8)/19 Bang 2 Me Nasty (VIP Mix).mp3"
+Aug 09 20:47 : player: played "SirensCeol – The Method To The Madness (2014) [SZLP0018]/01. The Glitch Waltz.mp3"
+Aug 09 20:51 : player: played "SirensCeol – The Method To The Madness (2014) [SZLP0018]/02. Atrium.mp3"
+Aug 10 10:58 : avahi: Service 'Music Player' successfully established.
+Aug 10 10:58 : player: played "SirensCeol – The Method To The Madness (2014) [SZLP0018]/04. Feeling Alright (feat. Jeff Sontag).mp3"
+Aug 10 11:01 : player: played "SirensCeol – The Method To The Madness (2014) [SZLP0018]/05. Islands.mp3"
+Aug 10 11:03 : player: played "SirensCeol – The Method To The Madness (2014) [SZLP0018]/06. The Devil's Swing.mp3"
+Aug 10 11:45 : player: played "SirensCeol – The Method To The Madness (2014) [SZLP0018]/07. Not Gonna' Fail.mp3"
+Aug 10 11:48 : player: played "SirensCeol – The Method To The Madness (2014) [SZLP0018]/08. Russian Roulette.mp3"
+Aug 10 11:53 : player: played "SirensCeol – The Method To The Madness (2014) [SZLP0018]/09. Slipping (feat. Ayana).mp3"
+Aug 10 11:57 : player: played "SirensCeol – The Method To The Madness (2014) [SZLP0018]/10. My Story.mp3"
+Aug 10 12:02 : player: played "SirensCeol – The Method To The Madness (2014) [SZLP0018]/11. All You Are.mp3"
