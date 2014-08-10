@@ -12,7 +12,8 @@ URxvt.perl-ext-common: default,clipboard,url-select,keyboard-select
 !URxvt.font: 9x15
 ! URxvt.font: xft:ohsnap:size=14
 !URxvt.font: xft:dejavu:size=10
-URxvt.font: xft:monospace:size=8
+|URxvt.font: xft:monospace:size=8
+URxvt.font: xft:SourceCodePro:size=8
 !URxvt.font: xft:-misc-tamsyn-medium-*-*--14-101-*-*-*-*-*
 
 !scrollbar style-rxvt(default),plain(most compact),next,or xterm
