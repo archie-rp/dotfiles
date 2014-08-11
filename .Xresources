@@ -1,4 +1,5 @@
 URxvt.perl-ext-common: default,clipboard,url-select,keyboard-select
+URxvt*letterSpace: -1
  URxvt.url-select.launcher: chromium
  URxvt.url-select.underline: true
  URxvt.colorUL: #4682B4
