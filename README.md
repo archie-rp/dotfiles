@@ -1,5 +1,7 @@
 dotfiles
 ========
 
-* Arch linux configs
-![Arch Linux screenshot](/Screenshot.png)
+# Arch linux configs
+
+*ScreenShot*
+![Arch Linux screenshot](/screenshot.png)
