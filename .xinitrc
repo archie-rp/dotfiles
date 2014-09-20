@@ -17,7 +17,7 @@ clipit &
 #plank &
 
 xrdb -merge .Xresources &
-#urxvt &
+urxvt &
 #panel &
 udiskie &
 sxhkd &
