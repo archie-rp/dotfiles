@@ -9,18 +9,14 @@ xsetroot -cursor_name left_ptr &
 compton &
 nitrogen --restore &
 unclutter &
-corebird &
-thunar &
-transmission-gtk &
-#start-pulseaudio-x11 &
 clipit &
-#plank &
 
 xrdb -merge .Xresources &
-urxvt &
-#panel &
 udiskie &
 sxhkd &
-#panel &
-exec bspwm
+pkill panel && panel &
+[ -e "$PANEL_FIFO" ] && rm "$PANEL_FIFO"
+mkfifo "$PANEL_FIFO"
+exec bspwm -s "$PANEL_FIFO" -p W
+
 
