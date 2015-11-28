@@ -19,8 +19,8 @@ bspc rule -a Transmission-gtk desktop=^5
 #bspc rule -a Kupfer.py focus=on
 #bspc rule -a Screenkey manage=off
 
-#PANEL_FONT_FAMILY="-benis-uushi-medium-r-normal--11-90-75-75-p-58-iso10646-1"
-#PANEL_HEIGHT=24
-#export PANEL_HEIGHT PANEL_FONT_FAMILY
-#pkill panel &
+PANEL_FONT_FAMILY="-benis-uushi-medium-r-normal--11-90-75-75-p-58-iso10646-1"
+PANEL_HEIGHT=24
+export PANEL_HEIGHT PANEL_FONT_FAMILY
+pkill panel &
 panel &
