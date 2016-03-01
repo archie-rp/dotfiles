@@ -1,3 +1,5 @@
+#!/bin/bash
+
 yaourt -S libxcb xcb-util xcb-util-keysyms xcb-util-wm bspwm sxhkd sutils xtitle 
 git clone https://github.com/LemonBoy/bar.git
 cd bar 
